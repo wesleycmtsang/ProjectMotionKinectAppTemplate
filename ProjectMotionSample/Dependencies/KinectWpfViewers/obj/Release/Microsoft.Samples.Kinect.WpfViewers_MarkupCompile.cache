@@ -1,0 +1,20 @@
+﻿Microsoft.Samples.Kinect.WpfViewers
+
+
+library
+C#
+.cs
+C:\Users\Wesley\Desktop\Kinect Samples\Kinect Samples\KinectforWindowsSDKV1\Dependencies\KinectWpfViewers\obj\Release\
+Microsoft.Samples.Kinect.WpfViewers
+none
+false
+TRACE
+
+81269152292
+
+14390437924
+16-557843182
+KinectSensorChooser.xaml;KinectAudioViewer.xaml;KinectDepthViewer.xaml;KinectColorViewer.xaml;KinectDiagnosticViewer.xaml;KinectSettings.xaml;KinectSkeletonViewer.xaml;SilhouetteViewer.xaml;
+
+False
+
